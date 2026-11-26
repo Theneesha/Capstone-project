@@ -1,0 +1,241 @@
+movieId,title,genres
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+2,Jumanji (1995),Adventure|Children|Fantasy
+3,Heat (1995),Action|Crime|Thriller
+4,Se7en (1995),Mystery|Thriller
+5,Braveheart (1995),Action|Drama|War
+6,Apollo 13 (1995),Adventure|Drama|IMAX
+7,Casino (1995),Crime|Drama
+8,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+9,The Lion King (1994),Adventure|Animation|Children|Drama|Musical|IMAX
+10,Forrest Gump (1994),Comedy|Drama|Romance|War
+11,The Shawshank Redemption (1994),Crime|Drama
+12,Speed (1994),Action|Romance|Thriller
+13,Dumb & Dumber (1994),Adventure|Comedy
+14,Léon: The Professional (1994),Action|Crime|Drama|Thriller
+15,Schindler's List (1993),Drama|War
+16,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+17,Groundhog Day (1993),Comedy|Fantasy|Romance
+18,The Fugitive (1993),Thriller
+19,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+20,Unforgiven (1992),Western
+21,Reservoir Dogs (1992),Crime|Mystery|Thriller
+22,Terminator 2 (1991),Action|Sci-Fi
+23,The Silence of the Lambs (1991),Crime|Horror|Thriller
+24,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+25,Goodfellas (1990),Crime|Drama
+26,Home Alone (1990),Children|Comedy
+27,Dances with Wolves (1990),Adventure|Drama|Western
+28,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+29,Aliens (1986),Action|Adventure|Horror|Sci-Fi
+30,Top Gun (1986),Action|Romance
+31,Platoon (1986),Drama|War
+32,Blade Runner (1982),Action|Sci-Fi|Thriller
+33,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+34,The Thing (1982),Action|Horror|Mystery|Sci-Fi|Thriller
+35,Raiders of the Lost Ark (1981),Action|Adventure
+36,The Shining (1980),Horror
+37,Star Wars: Episode V (1980),Action|Adventure|Sci-Fi
+38,Alien (1979),Horror|Sci-Fi
+39,Apocalypse Now (1979),Action|Drama|War
+40,The Godfather (1972),Crime|Drama
+41,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+42,The Maltese Falcon (1941),Film-Noir|Mystery
+43,Double Indemnity (1944),Crime|Drama|Film-Noir
+44,The Big Sleep (1946),Crime|Film-Noir|Mystery
+45,Casablanca (1942),Drama|Romance
+46,The Sound of Music (1965),Musical|Romance
+47,West Side Story (1961),Drama|Musical|Romance
+48,Singin' in the Rain (1952),Comedy|Musical|Romance
+49,"The Good, the Bad and the Ugly (1966)",Action|Adventure|Western
+50,High Noon (1952),Drama|Western
+51,Bowling for Columbine (2002),Documentary
+52,March of the Penguins (2005),Documentary
+53,Super Size Me (2004),Documentary
+54,Spirited Away (2001),Adventure|Animation|Fantasy
+55,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+56,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+57,The Matrix (1999),Action|Sci-Fi|Thriller
+58,Gladiator (2000),Action|Adventure|Drama
+59,Titanic (1997),Drama|Romance
+60,Fargo (1996),Comedy|Crime|Drama|Thriller
+61,The Sixth Sense (1999),Drama|Mystery|Thriller
+62,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+63,The Dark Knight (2008),Action|Crime|Drama|IMAX
+64,Mad Max: Fury Road (2015),Action|Adventure|Sci-Fi|Thriller
+65,La La Land (2016),Comedy|Drama|Musical|Romance
+66,Get Out (2017),Horror|Mystery|Thriller
+67,Saving Private Ryan (1998),Action|Drama|War
+68,Life Is Beautiful (1997),Comedy|Drama|Romance|War
+69,Amelie (2001),Comedy|Romance
+70,Coco (2017),Adventure|Animation|Children|Fantasy|Musical
+71,Interstellar (2014),Sci-Fi|IMAX
+72,Parasite (2019),Comedy|Crime|Drama|Thriller
+73,Demo Feature 73 (2010),Horror|War|Musical
+74,Demo Feature 74 (1978),Adventure
+75,Demo Feature 75 (2014),Thriller
+76,Demo Feature 76 (2009),Film-Noir
+77,Demo Feature 77 (1967),Sci-Fi
+78,Demo Feature 78 (1976),Crime|Romance
+79,Demo Feature 79 (1994),Comedy|Fantasy|War
+80,Demo Feature 80 (2007),Film-Noir|Western
+81,Demo Feature 81 (2010),Western|Horror|Documentary
+82,Demo Feature 82 (1996),Thriller
+83,Demo Feature 83 (1986),Action
+84,Demo Feature 84 (1990),Animation
+85,Demo Feature 85 (1986),Drama|Romance|War
+86,Demo Feature 86 (1974),Film-Noir|Comedy
+87,Demo Feature 87 (2012),Action|Adventure|Children
+88,Demo Feature 88 (1982),Mystery
+89,Demo Feature 89 (1999),Action|IMAX
+90,Demo Feature 90 (1976),Horror
+91,Demo Feature 91 (2002),Romance|Children|Film-Noir
+92,Demo Feature 92 (1965),Romance|Action
+93,Demo Feature 93 (2003),Horror
+94,Demo Feature 94 (1981),IMAX|Thriller
+95,Demo Feature 95 (1999),Animation|Horror
+96,Demo Feature 96 (1969),Documentary|Horror
+97,Demo Feature 97 (1994),Drama|Romance
+98,Demo Feature 98 (1998),Fantasy|Documentary|Horror
+99,Demo Feature 99 (1993),Western|Musical
+100,Demo Feature 100 (1984),Comedy|Documentary
+101,Demo Feature 101 (1960),Drama|Adventure|Western
+102,Demo Feature 102 (1999),Crime|Action|Film-Noir
+103,Demo Feature 103 (1988),Animation|Thriller
+104,Demo Feature 104 (1968),Western|Horror|Thriller
+105,Demo Feature 105 (1974),Children|Romance
+106,Demo Feature 106 (2013),Children|Action
+107,Demo Feature 107 (2018),War|Western|Horror
+108,Demo Feature 108 (1962),Children|Comedy
+109,Demo Feature 109 (1988),Romance|Horror|Fantasy
+110,Demo Feature 110 (2005),Fantasy
+111,Demo Feature 111 (2003),Action
+112,Demo Feature 112 (1967),Romance|Action
+113,Demo Feature 113 (2003),War|Animation
+114,Demo Feature 114 (2012),Film-Noir|Adventure
+115,Demo Feature 115 (2011),IMAX|Adventure|Crime
+116,Demo Feature 116 (2005),Thriller|Film-Noir
+117,Demo Feature 117 (1978),Sci-Fi|Animation|War
+118,Demo Feature 118 (2005),Horror
+119,Demo Feature 119 (2010),IMAX|Mystery|Animation
+120,Demo Feature 120 (2007),Western|Thriller|Action
+121,Demo Feature 121 (1971),Adventure|Mystery|Fantasy
+122,Demo Feature 122 (1981),War
+123,Demo Feature 123 (1983),Children
+124,Demo Feature 124 (1994),Crime|Western
+125,Demo Feature 125 (1973),Western|Animation|Crime
+126,Demo Feature 126 (1990),Western|Children
+127,Demo Feature 127 (1994),Fantasy|Thriller|War
+128,Demo Feature 128 (2012),Romance|Fantasy
+129,Demo Feature 129 (1965),Drama|Mystery
+130,Demo Feature 130 (1985),Comedy
+131,Demo Feature 131 (1992),Film-Noir
+132,Demo Feature 132 (2000),Musical|Comedy|Romance
+133,Demo Feature 133 (1968),Mystery
+134,Demo Feature 134 (1979),Western|Thriller
+135,Demo Feature 135 (1970),Mystery|Drama
+136,Demo Feature 136 (1972),Fantasy
+137,Demo Feature 137 (2008),War
+138,Demo Feature 138 (1988),Horror|Romance|Animation
+139,Demo Feature 139 (1987),IMAX
+140,Demo Feature 140 (2017),Crime|Documentary
+141,Demo Feature 141 (1965),Drama|IMAX|Comedy
+142,Demo Feature 142 (1963),Mystery
+143,Demo Feature 143 (2013),Documentary|Action|Romance
+144,Demo Feature 144 (2008),Romance|Animation|War
+145,Demo Feature 145 (1977),Romance|Thriller|Film-Noir
+146,Demo Feature 146 (1961),Children
+147,Demo Feature 147 (2002),Comedy|Action
+148,Demo Feature 148 (1971),Western
+149,Demo Feature 149 (1966),Action|Comedy|Film-Noir
+150,Demo Feature 150 (2000),Animation
+151,Demo Feature 151 (1987),Action
+152,Demo Feature 152 (2016),Horror
+153,Demo Feature 153 (1972),Film-Noir|Sci-Fi|IMAX
+154,Demo Feature 154 (1994),Comedy|Children
+155,Demo Feature 155 (1988),Action|Comedy
+156,Demo Feature 156 (1980),Action|War|Sci-Fi
+157,Demo Feature 157 (1967),Western|Animation|Crime
+158,Demo Feature 158 (2007),War|Crime|Musical
+159,Demo Feature 159 (2009),Animation
+160,Demo Feature 160 (1994),Film-Noir|Sci-Fi|Musical
+161,Demo Feature 161 (2007),IMAX|Crime
+162,Demo Feature 162 (1999),Fantasy
+163,Demo Feature 163 (2014),Musical
+164,Demo Feature 164 (2003),Romance|Documentary|IMAX
+165,Demo Feature 165 (1987),Thriller
+166,Demo Feature 166 (1999),War|Documentary|Animation
+167,Demo Feature 167 (1997),Children|Western
+168,Demo Feature 168 (1987),Children|Documentary|Sci-Fi
+169,Demo Feature 169 (2010),Adventure|IMAX|Horror
+170,Demo Feature 170 (1999),Children
+171,Demo Feature 171 (1999),Film-Noir|Drama|Romance
+172,Demo Feature 172 (1974),Crime|Comedy
+173,Demo Feature 173 (2011),Documentary
+174,Demo Feature 174 (2005),Adventure|Horror
+175,Demo Feature 175 (1971),Sci-Fi|Crime|Film-Noir
+176,Demo Feature 176 (1967),Film-Noir|Animation|Sci-Fi
+177,Demo Feature 177 (2003),Adventure|Romance
+178,Demo Feature 178 (1978),Sci-Fi
+179,Demo Feature 179 (1961),Fantasy|Romance|IMAX
+180,Demo Feature 180 (1982),Children|Thriller
+181,Demo Feature 181 (1987),Mystery
+182,Demo Feature 182 (2003),Musical
+183,Demo Feature 183 (1992),Romance
+184,Demo Feature 184 (1963),Romance|Documentary|Musical
+185,Demo Feature 185 (2016),Film-Noir
+186,Demo Feature 186 (1992),Crime|Children|Mystery
+187,Demo Feature 187 (1998),Romance
+188,Demo Feature 188 (2007),Animation|Thriller|Film-Noir
+189,Demo Feature 189 (1984),IMAX|Animation
+190,Demo Feature 190 (2006),Thriller|Horror|Sci-Fi
+191,Demo Feature 191 (1971),Drama|Crime
+192,Demo Feature 192 (2005),Thriller
+193,Demo Feature 193 (1972),Mystery|Documentary
+194,Demo Feature 194 (1985),Drama|Animation
+195,Demo Feature 195 (1985),Action|Documentary
+196,Demo Feature 196 (1992),Adventure|Drama
+197,Demo Feature 197 (2006),Mystery
+198,Demo Feature 198 (2015),Sci-Fi|Action
+199,Demo Feature 199 (1961),Sci-Fi|Documentary
+200,Demo Feature 200 (2002),War|Animation|Sci-Fi
+201,Demo Feature 201 (1986),Documentary|War|Romance
+202,Demo Feature 202 (2019),Musical
+203,Demo Feature 203 (1970),Animation
+204,Demo Feature 204 (1994),Horror
+205,Demo Feature 205 (1987),Thriller|Drama|Romance
+206,Demo Feature 206 (1964),Children|Musical|Thriller
+207,Demo Feature 207 (1969),Fantasy
+208,Demo Feature 208 (1978),Animation
+209,Demo Feature 209 (1974),Crime|Fantasy
+210,Demo Feature 210 (2019),Mystery|Adventure
+211,Demo Feature 211 (1975),Thriller
+212,Demo Feature 212 (1973),IMAX|Adventure|Comedy
+213,Demo Feature 213 (2019),Fantasy|Animation
+214,Demo Feature 214 (1970),Animation|Sci-Fi
+215,Demo Feature 215 (2016),IMAX|Sci-Fi
+216,Demo Feature 216 (2000),Children
+217,Demo Feature 217 (2009),War|Comedy|Horror
+218,Demo Feature 218 (1992),IMAX|Musical
+219,Demo Feature 219 (1982),Sci-Fi|War|Documentary
+220,Demo Feature 220 (1968),Comedy
+221,Demo Feature 221 (2017),Animation|Horror
+222,Demo Feature 222 (1972),Comedy|War|Musical
+223,Demo Feature 223 (2007),Fantasy|Film-Noir|Drama
+224,Demo Feature 224 (1978),Romance
+225,Demo Feature 225 (1990),Western|Horror
+226,Demo Feature 226 (1987),War
+227,Demo Feature 227 (2019),Romance|Adventure|Western
+228,Demo Feature 228 (2000),Romance|Musical|Crime
+229,Demo Feature 229 (1964),Documentary|Crime|Musical
+230,Demo Feature 230 (1995),Mystery|Animation|Drama
+231,Demo Feature 231 (1977),War|Crime|Sci-Fi
+232,Demo Feature 232 (2017),Adventure|Crime
+233,Demo Feature 233 (1966),Horror|Fantasy
+234,Demo Feature 234 (2008),IMAX
+235,Demo Feature 235 (2009),Musical|Sci-Fi
+236,Demo Feature 236 (2001),Comedy|Children|Drama
+237,Demo Feature 237 (2003),Sci-Fi
+238,Demo Feature 238 (1972),Musical|Fantasy
+239,Demo Feature 239 (1991),Horror
+240,Demo Feature 240 (1960),Animation|Adventure|Mystery

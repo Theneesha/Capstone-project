@@ -1,0 +1,6 @@
+node_modules/
+dist/
+__pycache__/
+backend/moviemind.db
+backend/linucb_state.npz
+backend/results/
